@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8263503515563623
+  lightness: 0.7473334225178332
+  rhythmicContrast: 0.5109266835980366
+  saturation: 0.7765820096148414
+cta: {}
+layout_spectrum: 0.38787096482072236
+name: scitentteam
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.7141419562592807
